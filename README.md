@@ -1,4 +1,5 @@
 # walmart-sales-forecasting
+დეგსჰაბის ლინკი - https://dagshub.com/ejoba22/walmart-sales-forecasting
 
 ## პროექტის მიმოხილვა და მიზანი
 
